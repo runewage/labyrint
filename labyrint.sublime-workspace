@@ -1,0 +1,399 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mysql_err",
+				"mysql_error〔function〕"
+			],
+			[
+				"base",
+				"base64_decode〔function〕"
+			],
+			[
+				"gr",
+				"grey"
+			],
+			[
+				"_",
+				"$_SESSION〔variable〕"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 107.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"git",
+				"Github: Repository"
+			],
+			[
+				"github",
+				"Github: Pull Requests"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instl",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"plugin",
+				"Github: Plugin Settings"
+			],
+			[
+				"",
+				"Build: New Build System"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ginit",
+				"Github: Copy Link To File"
+			],
+			[
+				"git: op",
+				"Git: Open..."
+			],
+			[
+				"proj",
+				"Project: Add Folder"
+			],
+			[
+				"view",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"Fol",
+				"Project: Add Folder"
+			],
+			[
+				"View",
+				"View: Toggle Status Bar"
+			],
+			[
+				"Proj",
+				"Project: Save As"
+			],
+			[
+				"Prefer",
+				"Preferences: Browse Packages"
+			],
+			[
+				"Console",
+				"Set Syntax: R Console"
+			],
+			[
+				"con",
+				"Set Syntax: R Console"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/runewaage/Documents/WAAGE IT/Mobil apper/Labyrinten",
+		"/Users/runewaage/Documents/WAAGE IT/Mobil apper/Labyrinten/labyrint"
+	],
+	"file_history":
+	[
+		"/Users/runewaage/Library/Application Support/Sublime Text 3/Packages/User/Github Tools.sublime-settings",
+		"/Users/runewaage/Library/Application Support/Sublime Text 3/Packages/User/GitHub.sublime-settings",
+		"/Users/runewaage/Library/Application Support/Sublime Text 3/Packages/sublime-github/GitHub.sublime-settings",
+		"/Users/runewaage/Documents/WAAGE IT/Mobil apper/Labyrinten/config.xml",
+		"/Users/runewaage/Documents/WAAGE IT/Mobil apper/Labyrinten/JS/positions.js",
+		"/Users/runewaage/Documents/WAAGE IT/Mobil apper/Labyrinten/JS/maps.js",
+		"/Users/runewaage/Documents/WAAGE IT/Mobil apper/Labyrinten/JS/functions.js",
+		"/Users/runewaage/Documents/WAAGE IT/Mobil apper/Labyrinten/JS/jquery.mobile.config.js",
+		"/Users/runewaage/Documents/WAAGE IT/Mobil apper/Labyrinten/index.html",
+		"/Users/runewaage/Documents/WAAGE IT/Mobil apper/Labyrinten/CSS/style.css",
+		"/Users/runewaage/Documents/WAAGE IT/Mobil apper/Labyrinten/map.html",
+		"/Users/runewaage/Documents/WAAGE IT/Mobil apper/Labyrinten/position.html",
+		"/Users/runewaage/Documents/WAAGE IT/Mobil apper/Labyrinten/aurelio.html",
+		"/Users/runewaage/Library/Application Support/Sublime Text 3/Packages/User/SVN.errors.log",
+		"/Users/runewaage/Documents/Developement/PHP/oack2/dbconnect.txt",
+		"/Users/runewaage/Documents/Developement/PHP/oack2/meta.php",
+		"/Users/runewaage/Documents/Developement/PHP/oack2/masthead.txt",
+		"/Users/runewaage/Documents/Developement/PHP/oack2/masthead.php",
+		"/Users/runewaage/Documents/Developement/PHP/oack2/config.php",
+		"/Users/runewaage/Developement/PHP/oack2/admin.php",
+		"/Users/runewaage/Developement/PHP/oack2/email.php",
+		"/Users/runewaage/Developement/PHP/oack2/leggInnResultat.php",
+		"/Users/runewaage/Developement/PHP/oack2/dbfunctions.php",
+		"/Users/runewaage/Developement/PHP/oack2/rediger_bruker.php",
+		"/users/runewaage/Developement/PHP/.htaccess",
+		"/Users/runewaage/Developement/PHP/oack2/config.php",
+		"/Users/runewaage/Developement/PHP/oack2/tabell.php",
+		"/Users/runewaage/Developement/PHP/oack2/masthead.php",
+		"/Users/runewaage/Developement/PHP/oack2/oppsett.php",
+		"/Users/runewaage/Developement/PHP/oack2/sesong.php",
+		"/Users/runewaage/Developement/PHP/oack2/turnering.php",
+		"/Users/runewaage/Developement/PHP/oack2/turneringer.php",
+		"/Users/runewaage/Developement/PHP/oack2/confirm.php",
+		"/Users/runewaage/Developement/PHP/oack2/redigerLag.php",
+		"/Users/runewaage/Developement/PHP/oack2/curlingStyle.css",
+		"/Users/runewaage/Developement/PHP/oack2/confirmation.html",
+		"/Users/runewaage/Developement/PHP/oack2/hall.php",
+		"/Users/runewaage/Developement/PHP/oack2/curlingstein.jpg",
+		"/Users/runewaage/Developement/PHP/PHPMailer/class.phpmailer.php",
+		"/Users/runewaage/Developement/PHP/PHPMailer/class.pop3.php",
+		"/Users/runewaage/Developement/PHP/PHPMailer/extras/EasyPeasyICS.php",
+		"/Users/runewaage/Developement/PHP/PHPMailer/extras/htmlfilter.php",
+		"/Users/runewaage/Developement/PHP/PHPMailer/extras/ntlm_sasl_client.php",
+		"/Users/runewaage/Developement/PHP/PHPMailer/extras/README.md",
+		"/Users/runewaage/Developement/PHP/PHPMailer/changelog.md",
+		"/Users/runewaage/Developement/PHP/PHPMailer/composer.json",
+		"/Users/runewaage/Developement/PHP/PHPMailer/LICENSE",
+		"/Users/runewaage/Developement/PHP/PHPMailer/PHPMailerAutoload.php",
+		"/Users/runewaage/Developement/PHP/PHPMailer/README.md",
+		"/Users/runewaage/Developement/PHP/PHPMailer/travis.phpunit.xml.dist",
+		"/Users/runewaage/Developement/PHP/PHPMailer/class.smtp.php",
+		"/Users/runewaage/Developement/PHP/PHPMailer/VERSION",
+		"/Users/runewaage/Developement/PHP/PHPMailer/test/phpmailerTest.php",
+		"/Users/runewaage/Developement/PHP/oack/leggInnResultat.php",
+		"/Users/runewaage/Developement/PHP/oack/tabell2.php",
+		"/Users/runewaage/Developement/PHP/oack/admin.php",
+		"/Users/runewaage/Developement/PHP/oack/tabell_frame.php",
+		"/Users/runewaage/Developement/PHP/oack/meta.php",
+		"/Users/runewaage/Developement/PHP/oack/.ftpquota",
+		"/Users/runewaage/Developement/PHP/oack/tabell.php",
+		"/Users/runewaage/Developement/Guideless-web/webpage/app/scripts/routes/trip_add.js",
+		"/Users/runewaage/Developement/Guideless-web/webpage/app/scripts/app.js",
+		"/Users/runewaage/Developement/Guideless-web/webpage/app/scripts/routes/application.js",
+		"/Users/runewaage/Developement/Guideless-web/webpage/app/scripts/routes/index.js",
+		"/Users/runewaage/Developement/Guideless-web/webpage/app/scripts/routes/organizations.js",
+		"/Users/runewaage/Developement/Guideless-web/webpage/app/scripts/routes/trips_edit.js",
+		"/Users/runewaage/Developement/Guideless-web/webpage/app/scripts/routes/trips_index.js",
+		"/Users/runewaage/Developement/Guideless-web/webpage/app/scripts/routes/trips_new.js",
+		"/Users/runewaage/Developement/Guideless-web/webpage/app/scripts/controllers/media.js",
+		"/Users/runewaage/Developement/Guideless-web/webpage/app/scripts/routes/users_index.js",
+		"/Users/runewaage/Developement/Guideless-web/web-master/app/scripts/controllers/media.js",
+		"/Users/runewaage/Developement/Guideless-web/web-master/app/scripts/app.js",
+		"/Users/runewaage/Developement/Guideless-web/web-master/app/scripts/routes/users_index.js",
+		"/Users/runewaage/Developement/Guideless-web/web-master/app/scripts/routes/trips_new.js",
+		"/Users/runewaage/Developement/Guideless-web/web-master/app/scripts/routes/trips_index.js",
+		"/Users/runewaage/Developement/Guideless-web/web-master/app/scripts/routes/trips_edit.js",
+		"/Users/runewaage/Developement/Guideless-web/web-master/app/scripts/routes/trip_add.js",
+		"/Users/runewaage/Developement/Guideless-web/web-master/app/scripts/routes/organizations.js",
+		"/Users/runewaage/Developement/Guideless-web/web-master/app/scripts/routes/index.js",
+		"/Users/runewaage/Developement/Guideless-web/web-master/app/scripts/routes/application.js",
+		"/Users/runewaage/Developement/Guideless-web/web-master/app/favicon.sublime-project",
+		"/Users/runewaage/Developement/Guideless-web/web-master/app/templates/signup.hbs",
+		"/Users/runewaage/Developement/Guideless-web/web-master/app/bower_components/jquery/dist/jquery.min.map",
+		"/Users/runewaage/Library/Application Support/Sublime Text 3/Packages/User/SideBarGit.sublime-settings",
+		"/Users/runewaage/Library/Application Support/Sublime Text 3/Packages/SideBarGit/SideBarGit.sublime-settings",
+		"/Users/runewaage/Developement/Guideless-web/web-master/app/templates/faq/adminuser.hbs",
+		"/Users/runewaage/Developement/Guideless-web/web-master/app/index.html",
+		"/Users/runewaage/Developement/Guideless-web/web-master/app/bower_components/bootstrap-sass/_includes/footer.html",
+		"/Users/runewaage/Developement/Guideless-web/web-master/app/bower_components/bootstrap-sass/CNAME",
+		"/Users/runewaage/Developement/Guideless-web/web-master/app/bower_components/jquery/src/attributes/classes.js",
+		"/Users/runewaage/Developement/Guideless-web/web-master/app/bower_components/bootstrap-sass/lib/_close.scss",
+		"/Users/runewaage/Developement/Guideless-web/web-master/app/bower_components/lodash/dist/lodash.underscore.js",
+		"/Users/runewaage/Developement/Guideless-web/web-master/app/bower_components/bootstrap-sass/_layouts/default.html",
+		"/Users/runewaage/Developement/Guideless-web/web-master/app/bower_components/bootstrap-sass/Gemfile",
+		"/Users/runewaage/Developement/Guideless-web/web-master/app/bower_components/bootstrap-sass/Gruntfile.js",
+		"/Users/runewaage/Developement/Guideless-web/web-master/app/bower_components/bootstrap-sass/browserstack.json",
+		"/Users/runewaage/Developement/Guideless-web/web-master/app/bower_components/bootstrap-sass/bower.json",
+		"/Users/runewaage/Developement/Guideless-web/web-master/app/bower_components/bootstrap-sass/about.html",
+		"/Users/runewaage/Developement/Guideless-web/web-master/app/bower_components/bootstrap-sass/_config.yml",
+		"/Users/runewaage/Developement/Guideless-web/web-master/app/bower_components/bootstrap-sass/.bower.json",
+		"/Users/runewaage/Developement/Guideless-web/web-master/app/bower_components/bootstrap-sass/package.json",
+		"/Users/runewaage/Developement/Guideless-web/web-master/app/bower_components/jquery/src/attributes/prop.js",
+		"/Users/runewaage/Developement/Guideless-web/web-master/app/bower_components/bootstrap-sass/lib/_progress-bars.scss",
+		"/Users/runewaage/Developement/Guideless-web/web-master/app/bower_components/bootstrap-sass/docs-assets/js/ie8-responsive-file-warning.js",
+		"/Users/runewaage/Developement/Guideless-web/web-master/app/styles/fonts/glyphicons-halflings-regular.woff",
+		"/Users/runewaage/Developement/Guideless-web/web-master/app/bower_components/jquery/src/effects.js",
+		"/Users/runewaage/Developement/Guideless-web/web-master/app/bower_components/bootstrap-sass/DOCS-LICENSE",
+		"/Users/runewaage/Developement/Guideless-web/web-master/app/bower_components/momentjs/lang/da.js",
+		"/Users/runewaage/Developement/Guideless-web/web-master/app/bower_components/jquery/src/data.js",
+		"/Users/runewaage/Developement/Guideless-web/web-master/app/bower_components/ember-data/bower.json",
+		"/Users/runewaage/Developement/Guideless-web/web-master/app/bower_components/ember-data/ember-data.js",
+		"/Users/runewaage/Developement/Guideless-web/web-master/app/bower_components/momentjs/lang/fo.js",
+		"/Users/runewaage/Developement/Guideless-web/web-master/app/templates/faq.hbs",
+		"/Users/runewaage/Developement/Guideless-web/web-master/app/bower_components/momentjs/lang/fr-ca.js",
+		"/Users/runewaage/Developement/Guideless-web/web-master/app/bower_components/jquery/src/effects/animatedSelector.js",
+		"/Users/runewaage/Developement/Guideless-web/web-master/app/scripts/mixins/trip.js",
+		"/Users/runewaage/Developement/Guideless-web/web-master/app/bower_components/jquery/src/effects/Tween.js",
+		"/Users/runewaage/Developement/Guideless-web/web-master/app/bower_components/momentjs/min/moment-with-langs.js"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.MavensMate-OutputPanel":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 28.0
+	},
+	"pinned_build_system": "",
+	"project": "labyrint.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"faq/adminuser.hbs",
+				"templates/faq/adminuser.hbs"
+			],
+			[
+				"scripts/app.js",
+				"scripts/app.js"
+			],
+			[
+				"foo",
+				"bower_components/bootstrap-sass/_includes/footer.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 233.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
